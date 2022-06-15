@@ -8,3 +8,6 @@ connectDB.py
 movieCrawling.py
 *.txt
 *.png
+
+/.idea
+.DS_Store
